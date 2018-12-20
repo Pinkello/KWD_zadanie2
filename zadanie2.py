@@ -54,7 +54,7 @@ conf_matrix = confusion_matrix(y_test, multi_class_fashion_mnist_classifier.pred
 
 print("Confusion_matrix:")
 print(conf_matrix)
-print("Confusion_matrix POOOOOOOOOOOOOOOOOOOOOOOOOOOOOO")
+
 
 
 print("SCORE MULTI")
